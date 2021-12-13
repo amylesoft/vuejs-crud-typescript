@@ -1,7 +1,7 @@
 # vuejs-crud
 
 ### Backend api's
-See [API's](https://github.com/amylesoft/nestjs-crud/).
+See [API's](https://github.com/amylesoft/nestjs-crud-rest/).
 
 ## Project setup
 ```
